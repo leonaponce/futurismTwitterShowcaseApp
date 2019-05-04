@@ -1,3 +1,6 @@
+# MD info = https://www.markdownguide.org/getting-started/
+hi this is the readme!
+
 # TwitterApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
